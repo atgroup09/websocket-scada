@@ -1,8 +1,8 @@
 # WebSocket SCADA Client
 
-Source Code of Client (as framework)
+Source Code of Client (framework)
 
-- Client-side of Server-side (to delivery a content)
+- Client-side or Server-side (to delivery source code of the client)
 - HTTP, HTTPS, WebSocket
 - HTML5, CSS, JavaScript (jQuery, jQueryMobile, DataTables, FlotCharts)
 - list of projects (index.html, example)
