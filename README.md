@@ -1,6 +1,6 @@
 # WebSocket SCADA Client
 
-See [Releases](https://github.com/atgroup09/websocket-scada-client/releases) to download build version.
+See [Releases](https://github.com/atgroup09/websocket-scada-client/releases) to download latest version.
 
 - Documentation
 - Source code (+ emulator)
