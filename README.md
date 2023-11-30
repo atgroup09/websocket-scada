@@ -1,4 +1,4 @@
-# WebSocket SCADA Client
+# WebSocket Client / SCADA
 
 See [Releases](https://github.com/atgroup09/websocket-scada-client/releases) to download latest version.
 

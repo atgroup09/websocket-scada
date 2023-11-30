@@ -1,4 +1,4 @@
-# WebSocket SCADA Client
+# WebSocket Client / SCADA
 
 Source Code of Client (framework)
 
